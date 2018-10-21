@@ -9,7 +9,7 @@ files here will be read instead of the files in /Application
 Think of it as PSM Repatch..
 
 # How to decrypt PSM Games tho??!
-Use FuckPSSE: https://bitbucket.org/SilicaAndPina/fuckpsse/src/master/README.md  
+Use (FuckPSSE:)[https://bitbucket.org/SilicaAndPina/fuckpsse/src/master/README.md]  
 to decrypt the PSSE Layer on PSM Games and then you can modify whatever you want!  
 For executables, you can use dnSpy or ILLSpy to decompile and modify the executables.  
 
