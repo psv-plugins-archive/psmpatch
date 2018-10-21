@@ -1,3 +1,7 @@
+# Download:
+You can download v1.0 here: https://bitbucket.org/SilicaAndPina/psmpatch/downloads/PSMPatch.suprx  
+It's worked well enough to change a song in Cytus Lambda as well as make a mod to app.exe to unlock every song XD  
+
 # PSMPatch
 Allows you to modify PSM Games, and also can be used to load PSM Homebrew.  
 Simply put patched files into ux0:psm/TITLEID/Documents/p   
@@ -19,6 +23,4 @@ PS: if u get compile errors while using the PSM SDK try running 'setx MSBUILDENA
 Place the plugin under the \*ALL section of your config.txt and your good to go,  
 *NOTE: Do not use this plugin at the same time as FuckPSSE. you will break the universe*  
 
-# Download:
-You can download v1.0 here: https://bitbucket.org/SilicaAndPina/psmpatch/downloads/PSMPatch.suprx  
-It's worked well enough to change a song in Cytus Lambda as well as make a mod to app.exe to unlock every song XD  
+
