@@ -1,5 +1,5 @@
-# Download:
-You can download v1.0 here: https://bitbucket.org/SilicaAndPina/psmpatch/downloads/PSMPatch.suprx  
+# Downloads:
+You can download v1.0 here: **https://bitbucket.org/SilicaAndPina/psmpatch/downloads/PSMPatch.suprx**  
 It's worked well enough to change a song in Cytus Lambda as well as make a mod to app.exe to unlock every song XD  
 
 # PSMPatch
@@ -9,7 +9,7 @@ files here will be read instead of the files in /Application
 Think of it as PSM Repatch..
 
 # How to decrypt PSM Games tho??!
-Use [FuckPSSE:](https://bitbucket.org/SilicaAndPina/fuckpsse/src/master/README.md)  
+Use [FuckPSSE](https://bitbucket.org/SilicaAndPina/fuckpsse/src/master/README.md)  
 to decrypt the PSSE Layer on PSM Games and then you can modify whatever you want!  
 For executables, you can use dnSpy or ILLSpy to decompile and modify the executables.  
 
