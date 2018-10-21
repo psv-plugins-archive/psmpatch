@@ -12,7 +12,8 @@ For executables, you can use dnSpy or ILLSpy to decompile and modify the executa
 # About loading homebrew?
 Well this is a bit of a hack-y system. but it should work.  
 if you compile an app using the PSM SDK there is an unsigned copy of it created.  
-you can simply copy the unsigned files into the patch folder and it'll load the homebrew instead of the original game!  
+you can simply copy the unsigned files into the patch folder and it'll load the homebrew instead of the original game!
+PS: if u get compile errors while using the PSM SDK try running 'setx MSBUILDENABLEALLPROPERTYFUNCTIONS 1' in CMD.  
 
 # Installation
 Place the plugin under the \*ALL section of your config.txt and your good to go,  
