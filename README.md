@@ -1,4 +1,9 @@
 # Downloads:
+#v1.1
+You can download v1.1 here: **https://bitbucket.org/SilicaAndPina/psmpatch/downloads/PSMPatch1.1.suprx**  
++ Fixed bug where it was impossible to load an assembly thats the wrong size, - Homebrew loading acturally now work better
+
+#v1.0
 You can download v1.0 here: **https://bitbucket.org/SilicaAndPina/psmpatch/downloads/PSMPatch.suprx**  
 It's worked well enough to change a song in Cytus Lambda as well as make a mod to app.exe to unlock every song XD  
 
@@ -12,6 +17,10 @@ Think of it as PSM Repatch..
 Use [FuckPSSE](https://bitbucket.org/SilicaAndPina/fuckpsse/src/master/README.md)  
 to decrypt the PSSE Layer on PSM Games and then you can modify whatever you want!  
 For executables, you can use dnSpy or ILLSpy to decompile and modify the executables.  
+
+# Problems
+Well. theres still a problem with creating files. i havent worked out how the PSM Runtime determines if a file exists.
+to get around this, simply make any mods or homebrews load external files from /Documents/p instead :D
 
 # About loading homebrew?
 Well this is a bit of a hack-y system. but it should work.  
