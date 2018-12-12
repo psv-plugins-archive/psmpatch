@@ -28,6 +28,8 @@ if you compile an app using the PSM SDK there is an unsigned copy of it created.
 you can simply copy the unsigned files into the patch folder and it'll load the homebrew instead of the original game!
 PS: if u get compile errors while using the PSM SDK try running 'setx MSBUILDENABLEALLPROPERTYFUNCTIONS 1' in CMD.  
 
+Heres an example of PSM Homebrew running under PSMPatch: https://www.youtube.com/watch?v=qS_QAfrBAwQ  
+
 # Installation
 Place the plugin under the \*ALL section of your config.txt and your good to go,  
 *NOTE: Do not use this plugin at the same time as FuckPSSE. you will break the universe*  
